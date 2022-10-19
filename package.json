@@ -1,6 +1,6 @@
 {
 	"author": "Yasser Wright",
-	"description": "A practice on how to manage NPM",
+	"description": "A practice on how to manage NPM VIA FreeCodeCamp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
