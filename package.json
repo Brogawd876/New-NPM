@@ -1,5 +1,5 @@
 {
-	"author": "Yasser Wight",
+	"author": "Yasser Wright",
 	"description": "A practice on how to manage NPM VIA FreeCodeCamp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
@@ -12,5 +12,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"engines": {
+		"node": "10.19.0"
+	  }
 }
